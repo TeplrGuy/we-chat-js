@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/TeplrGuy/we-chat-js#readme",
   "dependencies": {
+    "express": "^4.16.4",
+    "output-manager": "^3.0.0",
+    "server-lite": "^1.0.0",
+    "url": "^0.11.0",
     "ws": "^6.2.0"
   }
 }
